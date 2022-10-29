@@ -1,5 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/harshsingh-io/raw/main/Picsart_22-10-11_10-11-40-589.png)](https://codenemy.blogspot.com)
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="harshsingh-io" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/harshsingh-io?trk=profile-badge">HARSH SINGH</a></div>
+              
 <h3 align="center">Android Developer (Java) | Seeking Entry-Level Programming Position | CS Student At SIRT Bhopal | Tech Enthusiast | Article Writing about Coding and Technical Stuffs</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/harshsingh-io/raw/main/output-onlinegiftools.gif">
 
