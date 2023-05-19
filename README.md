@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development, Data Structure And Algorithms by Alpha**
 
-- 📝 I regularly write articles on [https://codenemy.blogspot.com/](https://codenemy.blogspot.com/)
+- 📝 I regularly write articles on [www.codenemy.com](https://codeenemy.hashnode.dev/)
 
 - 💬 Ask me about **Android, Java, DSA**
 
