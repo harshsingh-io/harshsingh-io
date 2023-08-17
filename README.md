@@ -41,7 +41,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsingh-io&show_icons=true&locale=en&layout=compact" alt="harshsingh-io">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=-5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=+5.3">
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
