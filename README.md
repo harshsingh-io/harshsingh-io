@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **MVVM Clean Architecture**
 
-- 👯 Here is my [Resume](https://drive.google.com/file/d/1ixuHY6s9CPoVnkX5LFjPckn7KHxxbbJk/view)
-
 - 🤝 Open to help in [Android Development](https://roadmap.sh/android)
 
 - 👨‍💻 All of my projects are available at [https://harshsingh-io.github.io/portfolio/](https://harshsingh-io.github.io/portfolio/)
@@ -23,7 +21,7 @@
 
 - 📫 Reach me out **harshsingh704888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ixuHY6s9CPoVnkX5LFjPckn7KHxxbbJk/view](https://drive.google.com/file/d/1ixuHY6s9CPoVnkX5LFjPckn7KHxxbbJk/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ixuHY6s9CPoVnkX5LFjPckn7KHxxbbJk/view)
 
 - ⚡ Fun fact **Android Dev is easier than English**
 
