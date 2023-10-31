@@ -53,3 +53,4 @@
         <img src="https://github-profile-trophy.vercel.app/?username=harshsingh-io" alt="grandmoff100" />
     </a>
 </p>
+<a href="https://stardev.io/developers/harshsingh-io"><img alt="Check out harshsingh-io's profile on stardev.io" src="https://stardev.io/developers/harshsingh-io/badge/languages/global.svg" /></a>
