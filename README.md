@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MVVM Clean Architecture**
 
-- 🤝 Open to help in [Android Development](https://roadmap.sh/android)
+- 🤝 Open to help in [Android & Flutter Development](https://roadmap.sh/android)
 
 - 👨‍💻 All of my projects are available at [https://harshsingh-io.github.io/portfolio/](https://harshsingh-io.github.io/portfolio/)
 
