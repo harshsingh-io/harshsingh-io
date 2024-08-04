@@ -34,6 +34,10 @@
 <a href="https://www.youtube.com/c/@harshsingh-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@harshsingh-io" height="30" width="40" /></a>
 </p>
 
+
+
+[![@harshsingh704888's Holopin board](https://holopin.me/harshsingh704888)](https://holopin.io/@harshsingh704888)
+
 <table>
   <tr>
     <td>
@@ -45,20 +49,31 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsingh-io&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=+5.3" alt="Productive Time" width="500" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsingh-io&theme=github" alt="Profile Details" width="1000" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://stardev.io/developers/harshsingh-io">
+        <img alt="Check out harshsingh-io's profile on stardev.io" src="https://stardev.io/developers/harshsingh-io/badge/languages/global.svg" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 
-[![@harshsingh704888's Holopin board](https://holopin.me/harshsingh704888)](https://holopin.io/@harshsingh704888)
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsingh-io&theme=github"
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsingh-io&show_icons=true&locale=en&layout=compact" alt="harshsingh-io">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=+5.3">
-</p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=harshsingh-io" alt="grandmoff100" />
     </a>
 </p>
-<a href="https://stardev.io/developers/harshsingh-io"><img alt="Check out harshsingh-io's profile on stardev.io" src="https://stardev.io/developers/harshsingh-io/badge/languages/global.svg" /></a>
