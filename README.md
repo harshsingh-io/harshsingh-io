@@ -23,7 +23,6 @@
 - **CI/CD:** Jenkins, GitHub Actions
 - **Other:** Multithreading, Concurrency, JSON Serialization.
 
-#### ⚡ Fun fact **Android Dev is easier than English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
