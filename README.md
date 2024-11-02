@@ -29,7 +29,7 @@
 <a href="https://twitter.com/harshsingh_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshtobekind" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshsingh-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshsingh-io" height="30" width="40" /></a>
 <a href="https://instagram.com/harshsingh.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshtobekind" height="30" width="40" /></a>
-<a href="https://hashnode.com/@harshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshio" height="30" width="40" /></a>
+<a href="https://codeenemy.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshio" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@harshsingh-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@harshsingh-io" height="30" width="40" /></a>
 </p>
 
