@@ -1,78 +1,94 @@
-<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
-<h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/harshsingh-io/raw/main/output-onlinegiftools.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsingh-io&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh-io" /> </p>
-<p align="left"> <a href="https://twitter.com/harshsingh_io" target="blank"><img src="https://img.shields.io/twitter/follow/harshsingh_io?logo=twitter&style=for-the-badge" alt="/harshsingh_io" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-### About Me
-- Passionate Android Developer with experience in Kotlin and Java.
-- Enthusiastic about creating efficient, scalable, and user-friendly mobile applications.
-- Strong background in software development, problem-solving, and project management.
-
-### Skills
-- **Programming Languages:** Kotlin, Java
-- **Frameworks & Libraries:** Android Jetpack, Dagger2, Hilt, Retrofit, RxJava
-- **Database:** SQLite, Room Persistence Library
-- **UI/UX:** Material Design, Jetpack Compose, Custom Views, Animations
-- **Architecture:** MVP, MVVM, Clean Architecture
-- **Tools:** Android Studio, Git, Gradle, Firebase
-- **Testing:** Unit Testing, UI Testing, Integration Testing
-- **CI/CD:** Jenkins, GitHub Actions
-- **Other:** Multithreading, Concurrency, JSON Serialization.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshsingh_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshtobekind" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshsingh-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshsingh-io" height="30" width="40" /></a>
-<a href="https://instagram.com/harshsingh.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshtobekind" height="30" width="40" /></a>
-<a href="https://codeenemy.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@harshsingh-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@harshsingh-io" height="30" width="40" /></a>
-</p>
-
-
-
-[![@harshsingh704888's Holopin board](https://holopin.me/harshsingh704888)](https://holopin.io/@harshsingh704888)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=harshsingh-io&theme=dark&show_icons=true" alt="Harsh's GitHub stats" width="500" height="200"/>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=harshsingh-io&theme=dark&hide_border=true" alt="GitHub Streak" width="500" height="200"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsingh-io&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=+5.3" alt="Productive Time" width="500" height="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsingh-io&theme=github" alt="Profile Details" width="1000" height="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://stardev.io/developers/harshsingh-io">
-        <img alt="Check out harshsingh-io's profile on stardev.io" src="https://stardev.io/developers/harshsingh-io/badge/languages/global.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Singh</h1>
+<h3 align="center">Software Engineer | Prompt Engineer | Mobile Developer</h3>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=harshsingh-io" alt="grandmoff100" />
-    </a>
+  <a href="mailto:harshsingh704888@gmail.com"><img src="https://img.shields.io/badge/Email-harshsingh704888%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="tel:+917047272436"><img src="https://img.shields.io/badge/Phone-%2B917047272436-blue?style=flat-square&logo=phone"></a>
+  <a href="https://harshsinghh.me"><img src="https://img.shields.io/badge/Portfolio-harshsinghh.me-blue?style=flat-square&logo=google-chrome"></a>
+</p>
+
+## 👨‍💻 About Me
+
+I'm a versatile Software Engineer with expertise in Mobile Development, AI/ML, and Backend Engineering. Currently working as a Prompt Engineer at Outlier, where I enhance code generation accuracy and develop sophisticated training strategies for LLMs. Previously, I contributed to scaling mobile applications at BlueMango Labs and developed AI-driven solutions at Persist Ventures.
+
+### 🚀 Current Focus
+- 🤖 Developing AI/ML solutions for code generation and analysis
+- 📱 Building scalable mobile applications using Flutter and Android
+- 🎯 Optimizing LLM training pipelines and prompt engineering
+- 🔧 Architecting robust backend systems with microservices and distributed computing
+
+## 💼 Professional Journey
+
+```typescript
+const professionalPath = {
+  current: {
+    role: "Prompt Engineer",
+    company: "Outlier",
+    impact: "Improved code generation accuracy by 30%"
+  },
+  previous: [
+    {
+      role: "Full Stack Engineer",
+      company: "Persist Ventures",
+      impact: "Led development of AI-powered styling platform"
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "BlueMango Labs",
+      impact: "Scaled backend to support 10x users"
+    },
+    {
+      role: "Android Lead",
+      company: "Google Developer Group - SIRT",
+      impact: "Led team of 10, organized 5+ tech events"
+    }
+  ]
+};
+```
+
+## 🛠️ Tech Stack
+
+```javascript
+const techStack = {
+  mobile: ["Flutter", "Android", "Kotlin", "Java"],
+  backend: ["FastAPI", "PostgreSQL", "MongoDB", "AWS"],
+  ai_ml: ["TensorFlow", "OpenAI", "Prompt Engineering"],
+  tools: ["Git", "Docker", "CI/CD", "Firebase"],
+  architecture: ["MVVM", "Clean Architecture", "Microservices"]
+};
+```
+
+## 🏆 Featured Projects
+
+1. **Lulu AI Fashion Stylist**
+   - AI-driven personal styling platform
+   - Tech: Flutter, FastAPI, MongoDB, OpenAI
+   - [View Project](https://github.com/harshsingh-io/lulu_stylist_app)
+
+2. **Fruit Freshness Analysis**
+   - Deep learning for fruit quality assessment
+   - Tech: TensorFlow, VGG16, Python
+   - [View Project](https://github.com/harshsingh-io/fruit_freshness_analysis)
+
+<details>
+<summary>📊 GitHub Statistics</summary>
+<!-- START_SECTION:github_stats -->
+<!-- END_SECTION:github_stats -->
+</p>
+</details>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshsingh-io"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/harshsingh_io"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/harshsingh.io"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://codeenemy.hashnode.dev/"><img src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshsingh-io&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
