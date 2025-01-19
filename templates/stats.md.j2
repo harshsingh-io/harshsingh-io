@@ -1,0 +1,15 @@
+## 📊 My GitHub Stats
+
+> Last updated: {{ stats.last_updated }}
+
+📈 **Activity Overview**
+- 💻 Total Commits: {{ stats.total_commits }}
+- ⭐ Total Stars Earned: {{ stats.total_stars }}
+- 🔀 Pull Requests: {{ stats.total_prs }}
+- 📝 Issues Created: {{ stats.total_issues }}
+- 📦 Repositories: {{ stats.total_repos }}
+
+🔝 **Most Used Languages**
+{% for lang, count in stats.languages.items() %}
+- {{ lang }}: {{ count }} repos
+{% endfor %} 
