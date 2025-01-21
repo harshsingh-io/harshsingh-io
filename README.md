@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Singh</h1>
-<h3 align="center">Software Engineer | Prompt Engineer | Mobile Developer</h3>
+<h3 align="center">Software Engineer | Prompt Engineer | React Developer</h3>
 
 <p align="center">
   <a href="mailto:harshsingh704888@gmail.com"><img src="https://img.shields.io/badge/Email-harshsingh704888%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -51,7 +51,7 @@ const professionalPath = {
 
 ```javascript
 const techStack = {
-  mobile: ["Flutter", "Android", "Kotlin", "Java"],
+  mobile: ["Flutter", "Android", "Kotlin", "React", "Java"],
   backend: ["FastAPI", "PostgreSQL", "MongoDB", "AWS"],
   ai_ml: ["TensorFlow", "OpenAI", "Prompt Engineering"],
   tools: ["Git", "Docker", "CI/CD", "Firebase"],
