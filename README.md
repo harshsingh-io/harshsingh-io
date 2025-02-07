@@ -75,24 +75,24 @@ const techStack = {
 <summary>📊 GitHub Statistics</summary>
 <!-- START_SECTION:github_stats -->
 
-> Last updated: 2025-02-06T00:49:04.848198+00:00
+> Last updated: 2025-02-07T00:49:05.242751+00:00
 
 📈 **Activity Overview**
-- 💻 Total Commits: 749
-- ⭐ Total Stars Earned: 164
-- 🔀 Pull Requests: 132
+- 💻 Total Commits: 771
+- ⭐ Total Stars Earned: 162
+- 🔀 Pull Requests: 112
 - 📝 Issues Created: 55
-- 📦 Repositories: 130
+- 📦 Repositories: 128
 
 🔝 **Most Used Languages**
 
 - Kotlin: 20 repos
 
-- Dart: 17 repos
+- Dart: 16 repos
 
 - C++: 9 repos
 
-- Python: 7 repos
+- Python: 6 repos
 
 - JavaScript: 6 repos
 
@@ -102,7 +102,7 @@ const techStack = {
 
 - Jupyter Notebook: 5 repos
 
-- TypeScript: 2 repos
+- TypeScript: 4 repos
 
 - C: 1 repos
 
