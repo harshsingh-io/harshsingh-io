@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Singh</h1>
-<h3 align="center">Software Engineer | Mobile Engineer | Prompt Engineer</h3>
+<h3 align="center">Software Engineer | Mobile Engineer | AI Engineer</h3>
 
 <p align="center">
   <a href="mailto:harshsingh704888@gmail.com"><img src="https://img.shields.io/badge/Email-harshsingh704888%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -23,7 +23,7 @@ I'm a versatile Software Engineer with expertise in Mobile Development, AI/ML, a
 ```typescript
 const professionalPath = {
   current: {
-    role: "Prompt Engineer",
+    role: "AI Engineer",
     company: "Outlier",
     impact: "Improved code generation accuracy by 30%"
   },
