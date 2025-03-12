@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile Software Engineer with expertise in Mobile Development, AI/ML, and Backend Engineering. Currently working as a Prompt Engineer at Outlier, where I enhance code generation accuracy and develop sophisticated training strategies for LLMs. Previously, I contributed to scaling mobile applications at BlueMango Labs and developed AI-driven solutions at Persist Ventures.
+I'm a versatile Software Engineer with expertise in Mobile Development, AI/ML, and Backend Engineering. Currently working as a AI Engineer at Outlier, where I enhance code generation accuracy and develop sophisticated training strategies for LLMs. Previously, I contributed to scaling mobile applications at BlueMango Labs and developed AI-driven solutions at Persist Ventures.
 
 ### 🚀 Current Focus
 - 🤖 Developing AI/ML solutions for code generation and analysis
