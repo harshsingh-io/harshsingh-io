@@ -3,9 +3,12 @@
 <h3 align="center">Software Engineer | Mobile Engineer | AI Engineer</h3>
 
 <p align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=harshsingh-io&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="mailto:harshsingh704888@gmail.com"><img src="https://img.shields.io/badge/Email-harshsingh704888%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="tel:+917047272436"><img src="https://img.shields.io/badge/Phone-%2B917047272436-blue?style=flat-square&logo=phone"></a>
   <a href="https://harshsinghh.me"><img src="https://img.shields.io/badge/Portfolio-harshsinghh.me-blue?style=flat-square&logo=google-chrome"></a>
+  
 </p>
 
 ## 👨‍💻 About Me
@@ -127,6 +130,4 @@ const techStack = {
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshsingh-io&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
