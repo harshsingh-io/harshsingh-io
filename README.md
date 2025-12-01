@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Singh</h1>
-<h3 align="center">Software Engineer | Mobile Engineer | AI Engineer</h3>
+<h3 align="center">Software Engineer </h3>
 
 <p align="center">
   
