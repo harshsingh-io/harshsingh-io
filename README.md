@@ -13,69 +13,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile Software Engineer with expertise in Mobile Development, AI/ML, and Backend Engineering. Currently working as a AI Engineer at Outlier, where I enhance code generation accuracy and develop sophisticated training strategies for LLMs. Previously, I contributed to scaling mobile applications at BlueMango Labs and developed AI-driven solutions at Persist Ventures.
+I'm a Software Engineer at MathonGo serving 2+ Million Users at [MARKS: IIT JEE](https://play.google.com/store/apps/details?id=com.scoremarks.marks&hl=en_IN) Application | 155k+ [FaceSearch AI](https://play.google.com/store/apps/details?id=com.facesearch.app&hl=en_IN) App Downloads
 
 ### 🚀 Current Focus
-- 🤖 Developing AI/ML solutions for code generation and analysis
+- 🤖 Developing AI/ML solutions for code generation models.
 - 📱 Building scalable mobile applications using Flutter and Android
-- 🎯 Optimizing LLM training pipelines and prompt engineering
+- 🎯 Optimizing LLM training pipelines and AI engineering
 - 🔧 Architecting robust backend systems with microservices and distributed computing
 
-## 💼 Professional Journey
-
-```typescript
-const professionalPath = {
-  current: {
-    role: "AI Engineer",
-    company: "Outlier",
-    impact: "Improved code generation accuracy by 30%"
-  },
-  previous: [
-    {
-      role: "Full Stack Engineer",
-      company: "Persist Ventures",
-      impact: "Led development of AI-powered styling platform"
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "BlueMango Labs",
-      impact: "Scaled backend to support 10x users"
-    },
-    {
-      role: "Android Lead",
-      company: "Google Developer Group - SIRT",
-      impact: "Led team of 10, organized 5+ tech events"
-    }
-  ]
-};
-```
-
-## 🛠️ Tech Stack
-
-```javascript
-const techStack = {
-  mobile: ["Flutter", "Android", "Kotlin", "React", "Java"],
-  backend: ["FastAPI", "PostgreSQL", "MongoDB", "AWS"],
-  ai_ml: ["TensorFlow", "OpenAI", "Prompt Engineering"],
-  tools: ["Git", "Docker", "CI/CD", "Firebase"],
-  architecture: ["MVVM", "Clean Architecture", "Microservices"]
-};
-```
-
-## 🏆 Featured Projects
-
-1. **Lulu AI Fashion Stylist**
-   - AI-driven personal styling platform
-   - Tech: Flutter, FastAPI, MongoDB, OpenAI
-   - [View Project](https://github.com/harshsingh-io/lulu_stylist_app)
-
-2. **Fruit Freshness Analysis**
-   - Deep learning for fruit quality assessment
-   - Tech: TensorFlow, VGG16, Python
-   - [View Project](https://github.com/harshsingh-io/fruit_freshness_analysis)
-
 <details>
-<summary>📊 GitHub Statistics</summary>
+<summary>📊 GitHub Statistics(Using own Github Action Workflow) </summary>
 <!-- START_SECTION:github_stats -->
 
 > Last updated: 2025-12-03T00:58:36.653278+00:00
@@ -117,7 +64,7 @@ const techStack = {
 </p>
 </details>
 
-## 🤝 Let's Connect
+## 🤝 Handles
 
 <p align="center">
   <a href="https://linkedin.com/in/harshsingh-io"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
