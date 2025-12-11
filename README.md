@@ -25,11 +25,11 @@ I'm a Software Engineer at MathonGo serving 2+ Million Users at [MARKS: IIT JEE]
 <summary>📊 GitHub Statistics(Using own Github Action Workflow) </summary>
 <!-- START_SECTION:github_stats -->
 
-> Last updated: 2025-12-10T01:00:14.987714+00:00
+> Last updated: 2025-12-11T01:01:04.001715+00:00
 
 📈 **Activity Overview**
 - 💻 Total Commits: 436
-- ⭐ Total Stars Earned: 177
+- ⭐ Total Stars Earned: 183
 - 🔀 Pull Requests: 128
 - 📝 Issues Created: 55
 - 📦 Repositories: 113
