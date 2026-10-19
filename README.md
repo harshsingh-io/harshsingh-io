@@ -2,14 +2,38 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Singh</h1>
 <h3 align="center">Software Engineer </h3>
 
+
 <p align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=harshsingh-io&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="mailto:harshsingh704888@gmail.com"><img src="https://img.shields.io/badge/Email-harshsingh704888%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="tel:+917047272436"><img src="https://img.shields.io/badge/Phone-%2B917047272436-blue?style=flat-square&logo=phone"></a>
-  <a href="https://harshsinghh.me"><img src="https://img.shields.io/badge/Portfolio-harshsinghh.me-blue?style=flat-square&logo=google-chrome"></a>
-  
+  <img
+    src="https://komarev.com/ghpvc/?username=harshsingh-io&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+  <a href="mailto:harshsingh704888@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20me-blue?style=flat-square&logo=gmail"
+      alt="Email"
+    />
+  </a>
+  <a href="tel:+917047272436">
+    <img
+      src="https://img.shields.io/badge/Phone-%2B91%2070472%2072436-blue?style=flat-square&logo=phone"
+      alt="Phone"
+    />
+  </a>
+  <a href="https://singhcerely.tech">
+    <img
+      src="https://img.shields.io/badge/Portfolio-singhcerely.tech-blue?style=flat-square&logo=google-chrome"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://github.com/harshsingh-mathongo">
+    <img
+      src="https://img.shields.io/badge/GitHub-harshsingh--mathongo-blue?style=flat-square&logo=github"
+      alt="GitHub profile"
+    />
+  </a>
 </p>
+
 
 ## 👨‍💻 About Me
 
